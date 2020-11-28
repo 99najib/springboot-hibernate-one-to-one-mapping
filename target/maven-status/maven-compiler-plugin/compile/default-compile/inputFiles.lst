@@ -1,0 +1,6 @@
+/Users/Admin/Desktop/MMA-Training/springboot-hibernate-one-to-one-mapping/src/main/java/org/mma/training/java/spring/controller/UserController.java
+/Users/Admin/Desktop/MMA-Training/springboot-hibernate-one-to-one-mapping/src/main/java/org/mma/training/java/spring/SpringbootHibernateUserAddressMappingApplication.java
+/Users/Admin/Desktop/MMA-Training/springboot-hibernate-one-to-one-mapping/src/main/java/org/mma/training/java/spring/model/User.java
+/Users/Admin/Desktop/MMA-Training/springboot-hibernate-one-to-one-mapping/src/main/java/org/mma/training/java/spring/repository/AddressRepository.java
+/Users/Admin/Desktop/MMA-Training/springboot-hibernate-one-to-one-mapping/src/main/java/org/mma/training/java/spring/repository/UserRepository.java
+/Users/Admin/Desktop/MMA-Training/springboot-hibernate-one-to-one-mapping/src/main/java/org/mma/training/java/spring/model/Address.java

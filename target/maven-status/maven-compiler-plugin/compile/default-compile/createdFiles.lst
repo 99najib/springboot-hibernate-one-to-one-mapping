@@ -1,0 +1,6 @@
+org/mma/training/java/spring/model/User.class
+org/mma/training/java/spring/repository/AddressRepository.class
+org/mma/training/java/spring/model/Address.class
+org/mma/training/java/spring/controller/UserController.class
+org/mma/training/java/spring/SpringbootHibernateUserAddressMappingApplication.class
+org/mma/training/java/spring/repository/UserRepository.class
